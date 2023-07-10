@@ -1,6 +1,6 @@
 {
-    "name": "dummy",
-    "short_name": "dummy",
+    "name": "animated_shopping_app",
+    "short_name": "animated_shopping_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
